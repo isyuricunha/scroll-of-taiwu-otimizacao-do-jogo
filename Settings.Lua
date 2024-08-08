@@ -1,0 +1,15 @@
+return {
+	Bool_EnableAvatarDelayRefresh = true,
+	Int_AvatarFadeInTimeTypeR = 0,
+	Bool_EnableEventWindowFade = true,
+	Int_EventWindowFadeTimeType = 0,
+	Bool_EnableCombatRange = true,
+	Int_CombatResultAnimScaleType = 4,
+	Bool_EnableQuickAdventure = true,
+	Bool_EnableAdventureCameraFollow = true,
+	Int_AdventureMoveSpeedScaleType = 2,
+	Int_AdventureUnfoldAnimationTimeScaleType = 2,
+	Bool_EnableQuickWorldMapMove = true,
+	Bool_EnableLinerWorldMapMove = true,
+	Int_WorldMapMoveSpeedScaleType = 1,
+}
