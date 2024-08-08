@@ -22,7 +22,7 @@ Para discutir o mod, reportar bugs ou solicitar atualizações, junte-se ao Disc
 ---
 
 
-Link para a versão na Steam: https://steamcommunity.com/sharedfiles/itemedittext/?id=3304972648
+Link para a versão na Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3304972648
 
 Link para versões alternativas (Steam verde): https://github.com/isyuricunha/scroll-of-taiwu-otimizacao-do-jogo/releases
 
