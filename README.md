@@ -1,3 +1,5 @@
+# [PT-BR] Otimização
+
 Melhora a fluidez do jogo e algumas lógicas de operação. Todas as opções de otimização podem ser ativadas ou desativadas conforme desejado.
 
 Otimizações:
@@ -16,6 +18,13 @@ Ajude a manter os mods/projetos - e a alimentar o criador do mod (eu), doe via p
 
 Para discutir o mod, reportar bugs ou solicitar atualizações, junte-se ao Discord: 
 - https://discord.com/invite/aYbWBr4
+
+---
+
+
+Link para a versão na Steam: https://steamcommunity.com/sharedfiles/itemedittext/?id=3304972648
+
+Link para versões alternativas (Steam verde): https://github.com/isyuricunha/scroll-of-taiwu-otimizacao-do-jogo/releases
 
 ---
 
